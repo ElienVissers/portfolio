@@ -7,7 +7,7 @@ body {
 
 @font-face {
         font-family: 'BebasNeue';
-        src: local('BebasNeue'), url('BebasNeue.ttf') format("truetype");
+        src: local('BebasNeue'), url('/BebasNeue.ttf') format("truetype");
     }
 
 #modalBackground {
