@@ -2,7 +2,8 @@
     "name": "portfolio",
     "version": "1.0.0",
     "engines": {
-        "node": "10.15.0"
+        "node": "10.15.0",
+        "npm": "6.10.0"
     },
     "description": "under construction --> [https://elienvissers.dev](https://elienvissers.dev)",
     "main": "index.js",
