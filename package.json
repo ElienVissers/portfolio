@@ -1,24 +1,27 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
-  "description": "under construction --> [https://elienvissers.dev](https://elienvissers.dev)",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "express-handlebars": "^3.1.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ElienVissers/portfolio.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ElienVissers/portfolio/issues"
-  },
-  "homepage": "https://github.com/ElienVissers/portfolio#readme"
+    "name": "portfolio",
+    "version": "1.0.0",
+    "engines": {
+        "node": "10.15.0"
+    },
+    "description": "under construction --> [https://elienvissers.dev](https://elienvissers.dev)",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^3.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ElienVissers/portfolio.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ElienVissers/portfolio/issues"
+    },
+    "homepage": "https://github.com/ElienVissers/portfolio#readme"
 }
