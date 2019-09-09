@@ -1,5 +1,3 @@
 # portfolio
 
-## UNDER CONSTRUCTION
-
-www.elienvissers.dev
+under construction --> [https://elienvissers.dev](https://elienvissers.dev)
